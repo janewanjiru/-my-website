@@ -1,0 +1,22 @@
+.nav{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    float: right;
+    margin-top: auto;
+    padding: 16px 20px;
+    overflow: hidden;
+    
+}
+.a{
+    text-decoration: none;
+    padding: 20px 25px;
+}
+
+image{
+    margin-bottom: 100px;
+}
+body{
+    background-color:grey ;
+}
+
