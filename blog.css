@@ -20,3 +20,14 @@ body{
     background-color:grey ;
 }
 
+.row{
+    display: flex; 
+ }
+#photo2{
+margin-right: 30%;
+}
+#photo1{
+    margin-right: 30%;
+    padding-top: 10%;
+   
+}
